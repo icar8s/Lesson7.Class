@@ -1,0 +1,15 @@
+D:\TeachMeSkills\Lesson7.Classes\Lesson7.Classes\bin\Debug\net7.0\Lesson7.Classes.exe
+D:\TeachMeSkills\Lesson7.Classes\Lesson7.Classes\bin\Debug\net7.0\Lesson7.Classes.deps.json
+D:\TeachMeSkills\Lesson7.Classes\Lesson7.Classes\bin\Debug\net7.0\Lesson7.Classes.runtimeconfig.json
+D:\TeachMeSkills\Lesson7.Classes\Lesson7.Classes\bin\Debug\net7.0\Lesson7.Classes.dll
+D:\TeachMeSkills\Lesson7.Classes\Lesson7.Classes\bin\Debug\net7.0\Lesson7.Classes.pdb
+D:\TeachMeSkills\Lesson7.Classes\Lesson7.Classes\obj\Debug\net7.0\Lesson7.Classes.csproj.AssemblyReference.cache
+D:\TeachMeSkills\Lesson7.Classes\Lesson7.Classes\obj\Debug\net7.0\Lesson7.Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\TeachMeSkills\Lesson7.Classes\Lesson7.Classes\obj\Debug\net7.0\Lesson7.Classes.AssemblyInfoInputs.cache
+D:\TeachMeSkills\Lesson7.Classes\Lesson7.Classes\obj\Debug\net7.0\Lesson7.Classes.AssemblyInfo.cs
+D:\TeachMeSkills\Lesson7.Classes\Lesson7.Classes\obj\Debug\net7.0\Lesson7.Classes.csproj.CoreCompileInputs.cache
+D:\TeachMeSkills\Lesson7.Classes\Lesson7.Classes\obj\Debug\net7.0\Lesson7.Classes.dll
+D:\TeachMeSkills\Lesson7.Classes\Lesson7.Classes\obj\Debug\net7.0\refint\Lesson7.Classes.dll
+D:\TeachMeSkills\Lesson7.Classes\Lesson7.Classes\obj\Debug\net7.0\Lesson7.Classes.pdb
+D:\TeachMeSkills\Lesson7.Classes\Lesson7.Classes\obj\Debug\net7.0\Lesson7.Classes.genruntimeconfig.cache
+D:\TeachMeSkills\Lesson7.Classes\Lesson7.Classes\obj\Debug\net7.0\ref\Lesson7.Classes.dll
